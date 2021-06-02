@@ -8,7 +8,8 @@
     "comments": "Comment[]"
   },
   "Comment": {
-    "body": "string",
+    "details": "string",
+    "about": "string",
     "post": "Post"
   }
 }
