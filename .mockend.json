@@ -1,15 +1,13 @@
 {
-  "Post": {
-    "organisation": "string",
-    "profile": "string",
-    "position": "string",
-    "deadline": "date",
-    "eligibility": "string",
-    "expand": "Expand[]"
+    "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
   },
-  "Expand": {
-    "details": "string",
-    "about": "string",
-    "post": "Post",
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
