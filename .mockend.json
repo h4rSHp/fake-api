@@ -5,11 +5,6 @@
     "position": "string",
     "deadline": "date",
     "eligibility": "string",
-    "form": {
-        "input1": "string",
-        "input2": "string",
-        "input3": "string"
-    },
     "comments": "Comment[]"
   },
   "Comment": {
