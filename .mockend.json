@@ -11,5 +11,10 @@
     "details": "string",
     "about": "string",
     "post": "Post"
+  },
+  "News":{
+      "title": "string",
+      "detail": "string",
+      "imgurl": "string",
   }
 }
