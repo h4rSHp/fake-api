@@ -2,6 +2,7 @@
     "Post": {
     "organisation": "string",
     "profile": "string",
+    "position": "string",
     "deadline": "date",
     "eligibility": "string",
     "comments": "Comment[]"
@@ -10,5 +11,5 @@
     "details": "string",
     "about": "string",
     "post": "Post"
-  },
+  }
 }
