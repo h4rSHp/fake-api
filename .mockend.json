@@ -1,10 +1,20 @@
 {
     "Post": {
-    "organisation": "string",
-    "profile": "string",
-    "position": "string",
-    "deadline": "date",
-    "eligibility": "string",
+    "organisation": {
+        "string":{}
+    },
+    "profile": {
+        "string":{}
+    },
+    "position": {
+        "string":{}
+    },
+    "deadline": {
+        "date":{}
+    },
+    "eligibility": {
+        "string":{}
+    },
     "comments": "Comment[]"
   },
   "Comment": {
