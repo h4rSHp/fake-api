@@ -10,12 +10,11 @@
         "string":{}
     },
     "deadline": {
-        "date":{}
+        "string":{}
     },
     "eligibility": {
         "string":{}
     },
-    "comments": "Comment[]"
   },
   "Comment": {
     "details": "string",
